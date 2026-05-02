@@ -9,7 +9,7 @@ I am an engineer driven by the integration of physical industrial systems and Ar
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Python, C++, MATLAB.
 - **AI/ML:** PyTorch, TensorFlow, Hugging Face (VLMs).
-- **Vision:** OpenCV, Cognex VisionPro, ViDi.
+- **Vision:** OpenCV, Cognex VisionPro, ViDi, HIK VisionMaster.
 - **Simulación:** CARLA Simulator (Digital Twins), ROS2 (Learning).
 
 ### 📈 Current Path
